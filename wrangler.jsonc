@@ -12,7 +12,12 @@
 		]
 	},
 	"keep_vars": true,
-	"migrations": [],
+	"migrations": [
+		{
+			"tag": "v1",
+			"new_classes": ["GeminiProxy"]
+		}
+	],
 	"observability": {
 		"enabled": true
 	},
