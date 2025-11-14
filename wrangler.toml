@@ -1,0 +1,7 @@
+name = "gemini-pro"
+main = "src/index.ts"
+compatibility_date = "2024-05-20"
+
+[[durable_objects.bindings]]
+name = "GEMINI_PROXY"
+class_name = "GeminiProxy"
