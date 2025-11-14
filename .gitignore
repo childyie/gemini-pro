@@ -24,3 +24,5 @@ Thumbs.db
 .env
 .env*.local
 !.env.example
+
+gemini-balance-do-main
